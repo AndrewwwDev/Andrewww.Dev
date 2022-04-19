@@ -2,7 +2,7 @@
 
 ## I am a passionate self-taught front-end/back-end developer ! ! !
 
-- 💻 You can see my portfolio at [My website]( target="_blank" https://andrewwwdev.github.io/)👀.
+- 💻 You can see my portfolio at [My website](https://andrewwwdev.github.io/)👀.
 - 👨‍💻 I am currently learning web development👨‍🏫.
 - 🤝 I am looking to collaborate with companies or in commercial 
 - :paperclip: [My Resume/CV](https://www.ricardodeleon.net/#aboutSection).
