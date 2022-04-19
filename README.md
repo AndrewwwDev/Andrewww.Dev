@@ -4,7 +4,7 @@
 
 - 💻 You can see my portfolio at [My website](https://andrewwwdev.github.io/)👀.
 - 👨‍💻 I am currently learning web development👨‍🏫.
-- 🤝 I am looking to collaborate with companies or commercial projects .
+- 🤝 I am looking to collaborate with companies or commercial projects 👍.
 - :paperclip: [My Resume/CV](https://www.ricardodeleon.net/#aboutSection).
 - ⚡ Fun fact: I love Astrophysics 🌠 and Robotics 🤖 ! ! !
 
