@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrew Uzcategui</h1>
+<h1 align="center">Hi 👋, I'm Andrew Uzcategui</h1>
 
 <h2 align="center">A front-end/back-end developer with a passion for technology</h2>
 
