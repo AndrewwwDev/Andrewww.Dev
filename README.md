@@ -1,20 +1,20 @@
-### Hi, I'm Andrewww.Dev 
+<h1 align="center">Hi, I'm Andrew Uzcategui</h1>
 
-## I am a passionate self-taught front-end/back-end developer ! 
+<h2 align="center">A front-end/back-end developer with a passion for technology</h2>
+
 
 - 💻 You can see my portfolio at [My website](https://andrew-developer.web.app/inicio)👀.
-- 👨‍💻 I am currently learning web development👨‍🏫.
-- 🤝 I am looking to collaborate with companies or commercial projects 👍.
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1vtH9w4v8p-UEsjcXT8mF3yMDFhzxVj93/view?usp=sharing).
-- ⚡ Fun fact: I love Astrophysics 🌠 and Robotics 🤖 ! ! !
 
-### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Andrewww.Dev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-cleyber-uzcategui-pe%C3%B1a-a2a320238/)
+- ⚡ Fun fact: I love Astrophysics 🌠 and Robotics🤖!
 
 <br />
 
-### Languages ​​and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/edxel-vargas-altamirano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edxel-vargas-altamirano" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
