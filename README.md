@@ -29,7 +29,7 @@ width="40"
 <h3 align="left">Languages and Tools 👨‍💻:</h3>
 <div align="left"> 
   
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
@@ -72,7 +72,7 @@ width="40"
         width="40"
         height="40"
       />
-</a>   
+</a>      
   
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
       <img
@@ -92,14 +92,7 @@ width="40"
       />
 </a>  
   
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer" >
-<img
-        src="https://imgs.search.brave.com/Pak3WJW6YFFDJRnvzm19jY3Svr-Q_PgSJj7vPVTU1TE/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/SUljX3N2YVdkR2RF/SnVFazdUQmxnSGFI/YSZwaWQ9QXBp"
-        alt="sql"
-        width="40"
-        height="40"
-      />
-</a>  
+
   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
@@ -127,6 +120,15 @@ width="40"
         height="40"
       />
 </a>  
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+        alt="typescript"
+        width="40"
+        height="40"
+      />
+</a> 
   
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
       <img
@@ -155,4 +157,21 @@ width="40"
       />
 </a>
 
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer" >
+<img
+        src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"
+        alt="sql"
+        width="40"
+        height="40"
+      />
+</a>    
+  
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
+        alt="MongoDB"
+        width="40"
+        height="40"
+      />
+</a>    
 </div>
